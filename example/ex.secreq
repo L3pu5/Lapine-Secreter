@@ -1,0 +1,2 @@
+DB_USER: literal database_user overwrites ./example/test.sql
+DB_PASS: hex 54 overwrites ./example/test.sql  ./example/test2.py
